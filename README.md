@@ -20,6 +20,7 @@ Po ruchu przeciwnikowi sąsiadujące pola są przejmowane. Gra kończy się, gdy
 
 Po zakończeniu gry wynik (liczba pól zajętych przez każdego gracza) oraz data zostają zapisane do pliku `ranking.txt`. W menu głównym prezentowane są trzy najlepsze wyniki.
 
+## 
 Projekt stworzony w ramach zajęć "Programowanie w języku C++"
 Polsko-Japońska Akademia Technik Komputerowych
 Semestr 2
