@@ -25,6 +25,7 @@ Project created for the course "Programming in C++"
 Polish-Japanese Academy of Information Technology  
 Semester 2  
 Author: Paulina Pasek
+Video link: https://youtu.be/Ig7zWEQNyew
 
 # Hexxagon PL
 
@@ -53,3 +54,4 @@ Projekt stworzony w ramach zajęć "Programowanie w języku C++"
 Polsko-Japońska Akademia Technik Komputerowych
 Semestr 2
 Autor: Paulina Pasek
+Link do video: https://youtu.be/Ig7zWEQNyew
